@@ -1,6 +1,6 @@
 >[!NOTE]
->Kagle curso -> https://www.kaggle.com/learn/intro-to-machine-learning
->Para intalar la libreria Pandas en Windows use el CMD y escriba `pip install pandas`   
+>Kagle curso -> https://www.kaggle.com/learn/intro-to-machine-learning.  
+>Para intalar la libreria Pandas en Windows use el CMD y escriba `pip install pandas`.   
 
 Pandas ua herramienta muy usada para la exploracion de los datos y su manipulación, una forma de exportarla y hacer uso de esta libreria es abreviarla como `pd`  
 `import pandas as pd`  
