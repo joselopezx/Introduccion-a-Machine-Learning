@@ -7,3 +7,8 @@ Pandas ua herramienta muy usada para la exploracion de los datos y su manipulaci
 `import pandas as pd`  
 La parte mas importante de la libreria es el **DataFrame** similar a las tablas en excel, o una base de datos SQL.  
 La forma de leer un CSV es `pd.read_csv(ruta del csv)` desearas almacenar esta lectura en una variable para poder trabajar con ella.  
+
+## Mean Absolute Error MAE
+Empezando por la utima palabra, error.  
+El error predicho es `error = actual - predicted`  
+Con **MAE**, tomamos el valor absoluto '| |' de cada error. Esto conviete cada error en un valor positivo. Despues tomamos el promedio de esos errores absolutos. esto es nuestro *measure of model quality* 
